@@ -1,0 +1,26 @@
+name: UHC
+description: UHC Plugin for TrapHQ
+version: 1.0
+author: Shprqness, CureMe
+main: cc.traphq.uhc.UHC
+
+commands:
+  playrules:
+    usage: /playrules
+  uhc:
+    usage: /uhc
+  helpop:
+    usage: /helpop
+  test:
+    usage: /test
+  pregame:
+    usage: /pregame
+  alerts:
+    usage: /alerts
+  scenarios:
+    usage: /scenarios
+    aliases:
+      - scenario
+      - scen
+  ii1baj:
+    usage: /ii1baj
